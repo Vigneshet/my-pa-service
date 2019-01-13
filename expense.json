@@ -1,0 +1,54 @@
+[
+    {
+      "name": "My Expense",
+      "category": [
+        "food",
+        "home",
+        "grt"
+      ],
+      "data": {
+        "total": "50000",
+        "spent": [
+          {
+            "amount": "2000",
+            "category": "my spending",
+            "details": "atm cash"
+          },
+          {
+            "amount": "3000",
+            "category": "food",
+            "details": "anjappar hotel"
+          }
+        ]
+      }
+    },
+    {
+      "name": "check",
+      "category": [
+        "food",
+        "home",
+        "grt",
+        "cvvvv"
+      ],
+      "data": {
+        "total": "30000",
+        "spent": [
+          {
+            "amount": "20000",
+            "category": "my spending",
+            "details": "atm cash"
+          },
+          {
+            "amount": "3000",
+            "category": "food",
+            "details": "anjappar hotel"
+          },
+          {
+            "amount": "3000",
+            "category": "home",
+            "details": "anjappar hotel"
+          }
+        ]
+      }
+    }
+  ]
